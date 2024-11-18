@@ -1,5 +1,5 @@
 [![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://i.pinimg.com/originals/b1/5b/d5/b15bd596014d9d9310e59b07b85da550.gif))](https://rishavchanda.io)
-<img src="https://i.pinimg.com/originals/b1/5b/d5/b15bd596014d9d9310e59b07b85da550.gif" />
+
 
 # 💫 About Me:
 Let’s cut to the chase!<br>🌐 I am a Web Developer<br>👨‍💻 Been Coding Since 2020<br>⚛️ Experienced in MERN Stack<br>📚 Learning Ai & App Development<br><br>
