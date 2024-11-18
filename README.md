@@ -19,4 +19,4 @@ Let’s cut to the chase!<br><br>🌐 I am a Web Developer<br>👨‍💻 Been C
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=axistus&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=axistus&icon=0&color=0)]
