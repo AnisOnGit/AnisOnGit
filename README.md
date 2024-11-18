@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif)]
+<img src="https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif" style="width: 100%; height: auto;" />
 <h1 align="center">Hi 👋, I'm Anisur</h1>
 <h3 align="center">Web Developer</h3>
 
