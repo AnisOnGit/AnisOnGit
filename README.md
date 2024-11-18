@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif" style="width: 100%; height: auto;" />
+<img src="https://i.pinimg.com/originals/b1/5b/d5/b15bd596014d9d9310e59b07b85da550.gif" style="width: 100%; height: auto;" />
 
 # 💫 About Me:
 Let’s cut to the chase!<br>🌐 I am a Web Developer<br>👨‍💻 Been Coding Since 2020<br>⚛️ Experienced in MERN Stack<br>📚 Learning Ai & App Development<br><br>
