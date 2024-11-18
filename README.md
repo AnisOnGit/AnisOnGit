@@ -2,7 +2,7 @@
      style="width: 100%; height: 25%; object-fit: cover;" />
 <br>
 # 💫 About Me:
-Let’s cut to the chase!<br>🌐 I am a Web Developer<br>👨‍💻 Been Coding Since 2020<br>⚛️ Experienced in MERN Stack<br>📚 Learning Ai & App Development<br><br>
+Let’s cut to the chase!<br><br>🌐 I am a Web Developer<br>👨‍💻 Been Coding Since 2020<br>⚛️ Experienced in MERN Stack<br>📚 Learning Ai & App Development<br><br>
 
 
 ## 🌐 Socials:
