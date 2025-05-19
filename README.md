@@ -1,8 +1,10 @@
-<h1 align="center">Hi 👋, I'm Anis</h1>
+# Hi 👋, I'm Anis
 
-<p align="center">👨‍💻 A Web Developer &nbsp;&nbsp;⚛️ Experienced in MERN Stack &nbsp;&nbsp;📚 Currently exploring the world of AI</p>
+<p align="center">
+👨‍💻A Web Developer &nbsp;⚛️ Experienced in MERN Stack &nbsp;📚 Currently exploring the world of AI
+</p>
 
-<h2 align="center">🚀 Languages and Tools I Use</h2>
+# 💻 Tech Stack I Use:
 
 <p align="center">
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42"/></a>
@@ -20,23 +22,13 @@
   <a href="#"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42"/></a>
 </p>
 
-<h2 align="center">⚡️ Where to find me</h2>
-
+# 📊 My GitHub Stats:
 <p align="center">
-  <a href="https://www.linkedin.com/in/anisur-rahman-2ab806213">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+<img src="https://github-readme-stats.vercel.app/api?username=AnisOnGit&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" width="100%"/>
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnisOnGit&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="41%"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://nirzak-streak-stats.vercel.app/?user=AnisOnGit&theme=tokyonight&hide_border=false" width="49%"/>
 </p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnisOnGit&show_icons=true&locale=en" alt="Anis GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnisOnGit" alt="GitHub Streak" />
-</div>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnisOnGit&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://i.pinimg.com/originals/b1/5b/d5/b15bd596014d9d9310e59b07b85da550.gif" width="100%" />
-</p>
+---
+## 🌐 Connect with me on:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/anisur-rahman-2ab806213) 
