@@ -22,8 +22,7 @@
 <br>
 
 <p align="center">
-
-  ![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,html,css,js,py,firebase,tailwind,figma,&perline=6)
+  ![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,html,css,js,py,firebase,tailwind,figma,&perline=11)
   <!--
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42"/></a>&nbsp;
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42"/></a>&nbsp;
