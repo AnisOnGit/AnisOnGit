@@ -73,4 +73,5 @@
 
 ---
 ## 🌐 Connect with me on:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/anisur-rahman-2ab806213) 
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/anisur-rahman-2ab806213) -->
+[<img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="32"/>](https://linkedin.com/in/anisur-rahman-2ab806213)
