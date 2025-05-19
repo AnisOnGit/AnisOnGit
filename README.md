@@ -21,12 +21,11 @@
 
 <br>
 
-
-
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,html,css,js,py,firebase,tailwind,figma" />
 </p>
+
+<br>
 
  <!--
  <p align="center">
@@ -49,7 +48,6 @@
   <a href="#"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="42" height="42"/></a>&nbsp;
   <a href="#"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42"/></a> -->
 
-<br>
 
 # 📊 My GitHub Stats:
 
