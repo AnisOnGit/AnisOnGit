@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:28A745&height=100&section=header&animation=fadeIn" style="animation: bounceInDown 3s;" />
-</p>
-
 # Hi 👋, I'm Anis
 
 <br>
