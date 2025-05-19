@@ -22,6 +22,9 @@
 <br>
 
 <p align="center">
+
+  ![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,html,css,js,py,firebase,tailwind,figma,&perline=6)
+  <!--
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42"/></a>&nbsp;
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42"/></a>&nbsp;
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42"/></a>&nbsp;
@@ -34,7 +37,7 @@
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42"/></a>&nbsp;
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42"/></a>&nbsp;
   <a href="#"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="42" height="42"/></a>&nbsp;
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42"/></a>
+  <a href="#"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42"/></a> -->
 </p>
 
 <br>
