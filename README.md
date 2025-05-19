@@ -2,9 +2,8 @@
 
 <br>
 
-<p align="center">
-👨‍💻A Web Developer &nbsp;⚛️ Experienced in MERN Stack &nbsp;📚 Currently exploring the world of AI
-</p>
+|👨‍💻 A Web Developer <br> ⚛️ Experienced in MERN Stack <br> 📚 Currently exploring the world of AI | <img width="150" src="https://i.gifer.com/6mb.gif">|
+|--|--|
 
 <br>
 
