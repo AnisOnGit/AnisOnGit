@@ -1,16 +1,16 @@
 # Hi 👋, I'm Anis
 
-br>
+<br>
 
 <p align="center">
 👨‍💻A Web Developer &nbsp;⚛️ Experienced in MERN Stack &nbsp;📚 Currently exploring the world of AI
 </p>
 
-br>
+<br>
 
 # 💻 Tech Stack I Use:
 
-br>
+<br>
 
 <p align="center">
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42"/></a>
@@ -28,11 +28,11 @@ br>
   <a href="#"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42"/></a>
 </p>
 
-br>
+<br>
 
 # 📊 My GitHub Stats:
 
-br>
+<br>
 
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=AnisOnGit&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
@@ -41,7 +41,7 @@ br>
   <br>
 </p>
 
-br>
+<br>
 
 <!--
 <p align="center">
