@@ -1,4 +1,4 @@
-# Hi 👋, I'm Anis
+# <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50"> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&color=806FF7&width=435&lines=Hi%2C+I'm+Anis)](https://git.io/typing-svg)
 
 <br>
 
