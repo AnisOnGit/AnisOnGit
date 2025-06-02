@@ -20,13 +20,17 @@
 # 💻 Tech Stack I Use:
 
 <br>
-
+<!--
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,html,css,js,py,firebase,tailwind,figma" />
 </p>
+-->
 
-<br>
+<p align="center">
+  <img src="https://simpleskill.icons.workers.dev/svg?i=mongodb,express,react,nodedotjs,firebase,tailwindcss,daisyui,shadcnui,html5,css,javascript,figma,notion" /> 
+</p>
 
+ 
  <!--
  <p align="center">
   <a href="https://skillicons.dev">
