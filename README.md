@@ -27,7 +27,7 @@
 -->
 
 <p align="center">
-  <img src="https://simpleskill.icons.workers.dev/svg?i=mongodb,express,react,nodedotjs,firebase,tailwindcss,daisyui,shadcnui,html5,css,javascript,figma,notion" /> 
+  <img src="https://simpleskill.icons.workers.dev/svg?i=mongodb,express,react,nodedotjs,firebase,tailwindcss,gsap,daisyui,shadcnui,html5,css,javascript,figma,notion" /> 
 </p>
 
  
