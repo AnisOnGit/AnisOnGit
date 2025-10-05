@@ -25,11 +25,19 @@
   <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,html,css,js,py,firebase,tailwind,figma" />
 </p>
 -->
-
+ <!--
 <p align="center">
   <img src="https://simpleskill.icons.workers.dev/svg?i=mongodb,express,react,nodedotjs,firebase,tailwindcss,gsap,daisyui,shadcnui,html5,css,javascript,figma,notion" /> 
 </p>
+-->
 
+<p align="center">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=mongodb,express,react,nodejs,firebase,tailwindcss,gsap,daisyui,shadcn,html,css,javascript,figma,notion"
+    />
+  </a>
+</p>
  
  <!--
  <p align="center">
